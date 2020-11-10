@@ -3,13 +3,13 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>lgh_weakproperty</string>
+	<string>xibWeak</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>@property (nonatomic, weak) IBOutlet &lt;#type#&gt; &lt;#name#&gt;;</string>
+	<string>@property (nonatomic, weak) IBOutlet &lt;#type#&gt; *&lt;#name#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>A0464EC3-A7F0-4F43-A174-DCE8BA4D8404</string>
 	<key>IDECodeSnippetLanguage</key>
@@ -17,9 +17,9 @@
 	<key>IDECodeSnippetPlatformFamily</key>
 	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>weak</string>
+	<string>Xib组件(weak属性)</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>Weak Property</string>
+	<string>Xib组件</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
